@@ -21,3 +21,9 @@ Examples:
 - FORTH Salon: https://forthsalon.appspot.com/
 - Elevator Saga: https://play.elevatorsaga.com/
 - Fight Code Game: http://beta.fightcodegame.com/
+
+TODO:
+
+- Write a README
+- Capture gifs/screenshots of games to put on slide
+- Practice demo-ing the slides in real time with a clock
